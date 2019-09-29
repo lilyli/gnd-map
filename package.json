@@ -1,0 +1,19 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "lint": "eslint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3": "^4.13.0",
+    "eslint": "^3.13.1",
+    "eslint-config-uber-es2015": "^3.0.1",
+    "live-server": "^0.7",
+    "npm": "^6.8.0"
+  }
+}
