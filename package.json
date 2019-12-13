@@ -14,6 +14,6 @@
     "eslint": "^3.13.1",
     "eslint-config-uber-es2015": "^3.0.1",
     "live-server": "^0.7",
-    "npm": "^6.8.0"
+    "npm": "^6.13.4"
   }
 }
